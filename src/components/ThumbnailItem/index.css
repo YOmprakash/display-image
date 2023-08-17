@@ -1,0 +1,14 @@
+/* Write your code here. */
+.list-container {
+  list-style-type: none;
+  margin: 10px;
+}
+.thumb-container {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}

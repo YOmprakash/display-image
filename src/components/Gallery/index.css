@@ -1,0 +1,23 @@
+/* Write your code here. */
+.bg-container {
+  min-height: 100vh;
+  padding-left: 20px;
+}
+
+.image {
+  width: 80%;
+}
+.thumbnail-container {
+  display: flex;
+  flex-direction: row;
+}
+.head {
+  font-size: 22px;
+  font-family: 'Roboto';
+  padding-left: 20px;
+}
+.des {
+  padding-left: 20px;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
